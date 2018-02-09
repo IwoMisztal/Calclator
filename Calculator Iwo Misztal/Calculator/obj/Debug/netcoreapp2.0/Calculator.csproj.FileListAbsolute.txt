@@ -1,0 +1,55 @@
+C:\Users\iwo\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.deps.json
+C:\Users\iwo\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.json
+C:\Users\iwo\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.dev.json
+C:\Users\iwo\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\iwo\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.pdb
+C:\Users\iwo\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\iwo\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\iwo\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\iwo\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs
+C:\Users\iwo\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\iwo\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.pdb
+C:\Users\john\Desktop\DotnetProjects\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.deps.json
+C:\Users\john\Desktop\DotnetProjects\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.json
+C:\Users\john\Desktop\DotnetProjects\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.dev.json
+C:\Users\john\Desktop\DotnetProjects\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\john\Desktop\DotnetProjects\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.pdb
+C:\Users\john\Desktop\DotnetProjects\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\john\Desktop\DotnetProjects\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\DotnetProjects\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\john\Desktop\DotnetProjects\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs
+C:\Users\john\Desktop\DotnetProjects\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\john\Desktop\DotnetProjects\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.pdb
+C:\Users\Krzysiek\Source\Repos\calc\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Krzysiek\Source\Repos\calc\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Source\Repos\calc\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\Source\Repos\calc\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs
+C:\Users\Krzysiek\Source\Repos\calc\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\Krzysiek\Source\Repos\calc\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.pdb
+C:\Users\Krzysiek\Source\Repos\calc\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.deps.json
+C:\Users\Krzysiek\Source\Repos\calc\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.json
+C:\Users\Krzysiek\Source\Repos\calc\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.dev.json
+C:\Users\Krzysiek\Source\Repos\calc\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\Krzysiek\Source\Repos\calc\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.pdb
+C:\Users\john\Desktop\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.deps.json
+C:\Users\john\Desktop\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.json
+C:\Users\john\Desktop\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.dev.json
+C:\Users\john\Desktop\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\john\Desktop\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.pdb
+C:\Users\john\Desktop\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\john\Desktop\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\john\Desktop\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs
+C:\Users\john\Desktop\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\john\Desktop\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\calc-afa51f863f5107351e7e3517d6019bc2938d8d16\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.pdb
+C:\Users\john\Desktop\calc final\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.deps.json
+C:\Users\john\Desktop\calc final\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.json
+C:\Users\john\Desktop\calc final\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.dev.json
+C:\Users\john\Desktop\calc final\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\john\Desktop\calc final\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.pdb
+C:\Users\john\Desktop\calc final\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\john\Desktop\calc final\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\calc final\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\john\Desktop\calc final\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs
+C:\Users\john\Desktop\calc final\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\john\Desktop\calc final\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.pdb
